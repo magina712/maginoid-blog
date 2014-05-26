@@ -1,0 +1,4 @@
+maginoid-blog
+=============
+
+scripts, css
